@@ -15,7 +15,7 @@
   {
     --bg-color:#053314;
     --second-color:#064b10;
-    --txt-color:#fff;
+    --txt-color:#ffffff;
     --main-color:rgb(192, 223, 100);
 
   }
@@ -350,7 +350,7 @@
   padding: 0 4rem;
   transform: translateY(100%);
   transition: .5s ease;
-  color:rgb(227, 233, 211);
+  color:rgb(4, 58, 4);
 }
 
 .portfolio-box:hover .portfolio-layer
