@@ -5,6 +5,10 @@ Welcome to AgriLearnNetwork, your one-stop destination for agricultural educatio
 ## About
 
 Agrilearn Network serves as an indispensable resource, offering farmers a holistic platform enriched with essential insights spanning the diverse landscape of agriculture. Delving into the core of farming practices, our platform provides detailed guidance on agriculture techniques, in-depth knowledge on seed varieties, recommendations for optimal tool usage, streamlined harvesting methods, best practices for sowing, and strategic farm management approaches. By encompassing a wide spectrum of topics, Agrilearn Network aims to empower farmers with the comprehensive understanding needed to navigate the complexities of modern agriculture successfully.
+
+## Features
+
+
 - **Sowing Techniques:** Explore precise seed placement, spacing, and depth for enhanced crop yields, accompanied by visual videos.
   
 - **Tools and Equipment:** Access recommendations for the most suitable tools and equipment for various farming tasks, with visual guides.
