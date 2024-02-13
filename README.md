@@ -22,6 +22,3 @@ Agrilearn Network serves as an indispensable resource, offering farmers a holist
 - **Climate Information:** Gain insights into local climate patterns and their impact on agriculture, with practical adaptation strategies.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
